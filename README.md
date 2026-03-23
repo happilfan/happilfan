@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![myjik](https://github.com/user-attachments/assets/c45145ab-2320-42f0-9e6e-d168f19a2235)
+
+
 Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Academy with a Master degree of Computer Science and now I'm studying programming.
 
 - 🔭 Finished styding HTML & CSS
