@@ -6,7 +6,7 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 - 🌱 Currently learning JS
 
 ### 📚 Projects
-- [YouTube replica](linkwillbehere)
+- [YouTube replica](https://github.com/happilfan/YouTube-replica)
 - Frontend Mentor - [QR code component](https://github.com/happilfan/QR-code-component) & [Order summary card](https://github.com/happilfan/Order-summary-card) solutions
 
 ### 🛠️ Tools
