@@ -9,6 +9,12 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 - [YouTube replica](linkwillbehere)
 - Frontend Mentor - [QR code component](https://github.com/happilfan/QR-code-component) & [Order summary card](https://github.com/happilfan/Order-summary-card) solutions
 
+### 🛠️ Tools
+- Language: HTML, CSS
+- Programm: [Visual Studio Code](https://code.visualstudio.com/)
+
+
+
 <!--
 **happilfan/happilfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
