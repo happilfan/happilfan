@@ -5,7 +5,7 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 - 🔭 Finished styding HTML & CSS
 - 🌱 Currently learning JS
 
-#Projects
+## 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
 <!--
