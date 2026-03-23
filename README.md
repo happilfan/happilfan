@@ -6,7 +6,8 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 - 🌱 Currently learning JS
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+- YouTube replica
+- Frontend Mentor - [QR code component](https://github.com/happilfan/pj2) & [Order summary card](https://github.com/happilfan/pj3) solutions
 
 <!--
 **happilfan/happilfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
