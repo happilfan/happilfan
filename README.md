@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Academy with a Master degree of Computer Science and now I'm studying programming.
+
+- 🔭 Finished styding HTML & CSS
+- 🌱 Currently learning JS
+
+#📚 Projects
+Welcome to my portfolio, where I showcase my projects.
+
 <!--
 **happilfan/happilfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
