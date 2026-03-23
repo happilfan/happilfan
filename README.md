@@ -11,7 +11,7 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 
 ### 🛠️ Tools
 - Language: HTML, CSS
-- Programm: [Visual Studio Code](https://code.visualstudio.com/)
+- Program: [Visual Studio Code](https://code.visualstudio.com/)
 
 
 
