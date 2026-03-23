@@ -2,8 +2,8 @@
 
 Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Academy with a Master degree of Computer Science and now I'm studying programming.
 
-🔭 Finished styding HTML & CSS
-🌱 Currently learning JS
+-🔭 Finished styding HTML & CSS
+-🌱 Currently learning JS
 
 ### 📚 Projects
 - [YouTube replica](linkwillbehere)
