@@ -13,7 +13,8 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 - Language: HTML, CSS
 - Program: [Visual Studio Code](https://code.visualstudio.com/)
 
-### 👋🏻 You can connect with Me in [telegram](https://t.me/rng_guy)
+### 👋🏻 Connect with Me
+- [Telegram](https://t.me/rng_guy)
 
 
 <!--
