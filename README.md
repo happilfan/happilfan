@@ -8,12 +8,24 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 🌱 Currently learning JS
 
 ### 📚 Projects
+
+**JavaScript**
+- [Rock Paper Scissors Game](https://github.com/happilfan/rps)
+- [Maze Game](https://github.com/happilfan/maze)
+- [Todo List](https://github.com/happilfan/tdl)
+
+**HTML & CSS**
 - [YouTube replica](https://github.com/happilfan/YouTube-replica)
-- Frontend Mentor - [QR code component](https://github.com/happilfan/QR-code-component) & [Order summary card](https://github.com/happilfan/Order-summary-card) solutions
-  - ***In progress: [Frontend Mentor - Clipboard landing page](https://github.com/happilfan/clipboard-landing-page-master)***
+- Frontend Mentor
+  - [QR code component](https://github.com/happilfan/QR-code-component)
+  - [Order summary card](https://github.com/happilfan/Order-summary-card)
+  - [Clipboard landing page](https://github.com/happilfan/clipboard-landing-page-master) feat [Amara-Rejuan](https://github.com/Amara-Rejuan)
+
+**Other**
+- [GitHub Tutorial](https://github.com/happilfan/GitHub-Tutorial)
 
 ### 🛠️ Tools
-- Language: HTML, CSS
+- Languages: HTML & CSS, JS
 - Program: [Visual Studio Code](https://code.visualstudio.com/)
 
 ### 👋🏻 Connect with Me
