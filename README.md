@@ -10,9 +10,9 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 ### 📚 Projects
 
 **JavaScript**
-- [Rock Paper Scissors Game](https://github.com/happilfan/rps)
-- [Maze Game](https://github.com/happilfan/maze)
-- [Todo List](https://github.com/happilfan/tdl)
+- [Rock Paper Scissors Game](https://happilfan.github.io/rps/) / *[Source](https://github.com/happilfan/rps)*
+- [Maze Game](https://happilfan.github.io/maze/) / *[Source](https://github.com/happilfan/maze)*
+- [Todo List](https://happilfan.github.io/tdl/) / *[Source](https://github.com/happilfan/tdl)*
 
 **HTML & CSS**
 - [YouTube replica](https://github.com/happilfan/YouTube-replica)
