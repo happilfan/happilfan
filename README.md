@@ -36,6 +36,8 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 ### 👋🏻 Connect with Me
 - [Telegram](https://t.me/rng_guy)
 
+*~Profile pic author: linkandorf*
+
 
 
 <!--
