@@ -12,8 +12,8 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 **JavaScript**
 | Project | Source | Last Update | Description |
 |-|-|-|-|
-| ✂️[Rock Paper Scissors Game](https://happilfan.github.io/rps/) | https://github.com/happilfan/rps | 13.5.2026 / v0.6 | Rock Paper Scissors Game Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
-| 📄[Todo List](https://happilfan.github.io/tdl/) | https://github.com/happilfan/tdl | 13.5.2026 / v0.2 | Todo List Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
+| ✂️[Rock Paper Scissors Game](https://happilfan.github.io/rps/) | https://github.com/happilfan/rps | 21.5.2026 / v0.7 | Rock Paper Scissors Game Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
+| 📄[Todo List](https://happilfan.github.io/tdl/) | https://github.com/happilfan/tdl | 22.5.2026 / v0.3 | Todo List Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
 | 🐍[Maze Game](https://happilfan.github.io/maze/) | https://github.com/happilfan/maze | 29.4.2026 / v0.1 | Maze Game created with the support of [Artificial Intelligence](https://chatgpt.com) by Chat GPT. |
 
 **HTML & CSS**
