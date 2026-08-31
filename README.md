@@ -37,8 +37,6 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 - [My CV](https://happilfan.github.io/CV)
 - [Telegram](https://t.me/rng_guy)
 
-*~Profile pic author: [linkandorf](https://www.tumblr.com/linkandorf/744403543235215360/mr-shine-mr-bright-mr-shine-and-mr-bright)*
-
 
 
 <!--
