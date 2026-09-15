@@ -37,6 +37,8 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 - [My CV](https://happilfan.github.io/CV)
 - [Telegram](https://t.me/rng_guy)
 
+![Profile Views](https://komarev.com/ghpvc/?username=happilfan&label=Profile+views&color=0e75b6&style=flat)
+
 
 
 <!--
