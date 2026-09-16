@@ -15,6 +15,7 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 | ✂️[Rock Paper Scissors Game](https://happilfan.github.io/rps/) | https://github.com/happilfan/rps | 21.5.2026 / v0.7 | Rock Paper Scissors Game Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
 | 📝[Todo List](https://happilfan.github.io/tdl/) | https://github.com/happilfan/tdl | 22.5.2026 / v0.3 | Todo List Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
 | 🐍[Maze Game](https://happilfan.github.io/maze/) | https://github.com/happilfan/maze | 29.4.2026 / v0.1 | Maze Game created with the support of [Artificial Intelligence](https://chatgpt.com) by Chat GPT. |
+| 🛒[Amazon Replica](https://happilfan.github.io/amazon-replica/) | https://github.com/happilfan/amazon-replica | 8.9.2026 | Amazon Replica Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
 | 📄[Multi-step form](https://github.com/iidadi/perjantai/) | https://github.com/iidadi/perjantai | 10.8.2026 | Multi-step form based on [Challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ) by Frontend Mentor. The project was carried out in collaboration led by [Iida Dadi](https://github.com/iidadi). |
 
 **HTML & CSS**
