@@ -4,8 +4,8 @@
 
 Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Academy with a Master degree of Computer Science and now I'm studying programming.
 
-🔭 Finished styding HTML & CSS  
-🌱 Currently learning JS
+🔭 Finished styding HTML/CSS, JavaScript  
+🌱 Currently learning React
 
 ### 📚 Projects
 
@@ -13,8 +13,9 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 | Project | Source | Last Update | Description |
 |-|-|-|-|
 | ✂️[Rock Paper Scissors Game](https://happilfan.github.io/rps/) | https://github.com/happilfan/rps | 21.5.2026 / v0.7 | Rock Paper Scissors Game Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
-| 📄[Todo List](https://happilfan.github.io/tdl/) | https://github.com/happilfan/tdl | 22.5.2026 / v0.3 | Todo List Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
+| 📝[Todo List](https://happilfan.github.io/tdl/) | https://github.com/happilfan/tdl | 22.5.2026 / v0.3 | Todo List Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
 | 🐍[Maze Game](https://happilfan.github.io/maze/) | https://github.com/happilfan/maze | 29.4.2026 / v0.1 | Maze Game created with the support of [Artificial Intelligence](https://chatgpt.com) by Chat GPT. |
+| 📄[Multi-step form](https://github.com/iidadi/perjantai/) | https://github.com/iidadi/perjantai | 10.8.2026 | Multi-step form based on [Challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ) by Frontend Mentor. The project was carried out in collaboration led by [Iida Dadi](https://github.com/iidadi). |
 
 **HTML & CSS**
 | Project | Source | Completion Date | Description |
@@ -27,10 +28,10 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 **Other**
 | Project | Last Update | Description |
 |-|-|-|
-| [GitHub Tutorial](https://github.com/happilfan/GitHub-Tutorial) | 27.3.2026 | How to connect/link your computer with GitHub, and work with files |
+| [GitHub Tutorial](https://github.com/happilfan/GitHub-Tutorial) | 27.3.2026 | How to connect/link your computer with GitHub, and work with files. |
 
 ### 🛠️ Tools
-- Languages: HTML & CSS, JS
+- Languages: HTML/CSS, JavaScript
 - Program: [Visual Studio Code](https://code.visualstudio.com/)
 
 ### 👋🏻 Connect with Me
