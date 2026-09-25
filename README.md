@@ -16,6 +16,7 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 | 📝[Todo List](https://happilfan.github.io/tdl/) | https://github.com/happilfan/tdl | 22.5.2026 / v0.3 | Todo List Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
 | 🐍[Maze Game](https://happilfan.github.io/maze/) | https://github.com/happilfan/maze | 29.4.2026 / v0.1 | Maze Game created with the support of [Artificial Intelligence](https://chatgpt.com) by Chat GPT. |
 | 🛒[Amazon Replica](https://happilfan.github.io/amazon-replica/) | https://github.com/happilfan/amazon-replica | 8.9.2026 | Amazon Replica Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
+| ☀️[Weather App](https://pepemikko.github.io/Weather-App/) | https://github.com/PePeMikko/Weather-App | 25.9.2026 | Weather App based on [Challenge](https://www.100jsprojects.com/project/weather-app) by 100 JS Projects. The project was carried out in collaboration with [Mikko Haponen](https://github.com/PePeMikko). |
 | 📄[Multi-step form](https://github.com/iidadi/perjantai/) | https://github.com/iidadi/perjantai | 10.8.2026 | Multi-step form based on [Challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ) by Frontend Mentor. The project was carried out in collaboration led by [Iida Dadi](https://github.com/iidadi). |
 
 **HTML & CSS**
