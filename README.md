@@ -9,28 +9,25 @@ Hello, I'm Vladimir. I graduated from the Ukrainian Engineering Pedagogical Acad
 
 ### 📚 Projects
 
-**JavaScript**
-| Project | Source | Last Update | Description |
-|-|-|-|-|
-| ✂️[Rock Paper Scissors Game](https://happilfan.github.io/rps/) | https://github.com/happilfan/rps | 21.5.2026 / v0.7 | Rock Paper Scissors Game Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
-| 📝[Todo List](https://happilfan.github.io/tdl/) | https://github.com/happilfan/tdl | 22.5.2026 / v0.3 | Todo List Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
-| 🐍[Maze Game](https://happilfan.github.io/maze/) | https://github.com/happilfan/maze | 29.4.2026 / v0.1 | Maze Game created with the support of [Artificial Intelligence](https://chatgpt.com) by Chat GPT. |
-| 🛒[Amazon Replica](https://happilfan.github.io/amazon-replica/) | https://github.com/happilfan/amazon-replica | 8.9.2026 | Amazon Replica Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
-| ☀️[Weather App](https://pepemikko.github.io/Weather-App/) | https://github.com/PePeMikko/Weather-App | 25.9.2026 | Weather App based on [Challenge](https://www.100jsprojects.com/project/weather-app) by 100 JS Projects. The project was carried out in collaboration with [Mikko Haponen](https://github.com/PePeMikko). |
-| 📄[Multi-step form](https://github.com/iidadi/perjantai/) | https://github.com/iidadi/perjantai | 10.8.2026 | Multi-step form based on [Challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ) by Frontend Mentor. The project was carried out in collaboration led by [Iida Dadi](https://github.com/iidadi). |
+| Project | Source | Last Update | Tags | Description |
+|-|-|-|-|-|
+| ✂️[Rock Paper Scissors Game](https://happilfan.github.io/rps/) | https://github.com/happilfan/rps | 21.5.2026 / v0.7 | HTML/CSS, JS | Rock Paper Scissors Game Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
+| 📝[Todo List](https://happilfan.github.io/tdl/) | https://github.com/happilfan/tdl | 22.5.2026 / v0.3 | HTML/CSS, JS | Todo List Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
+| 🐍[Maze Game](https://happilfan.github.io/maze/) | https://github.com/happilfan/maze | 29.4.2026 / v0.1 | HTML/CSS, JS | Maze Game created with the support of [Artificial Intelligence](https://chatgpt.com) by Chat GPT. |
+| 🛒[Amazon Replica](https://happilfan.github.io/amazon-replica/) | https://github.com/happilfan/amazon-replica | 8.9.2026 | JS, API | Amazon Replica Remake based on [JavaScript Full Course](https://youtu.be/EerdGm-ehJQ) by SuperSimpleDev. |
+| 🎥[YouTube Replica](https://happilfan.github.io/YouTube-replica) | https://github.com/happilfan/YouTube-replica | 13.3.2026 | HTML/CSS | YouTube Replica Remake based on [HTML & CSS Full Course](https://youtu.be/G3e-cpL7ofc) by SuperSimpleDev. |
+| ⛶ [QR code component](https://happilfan.github.io/QR-code-component) | https://github.com/happilfan/QR-code-component | 17.3.2026 | HTML/CSS | QR code component solution based on [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) by Frontend Mentor. |
+| 🧺[Order summary card](https://happilfan.github.io/Order-summary-card) | https://github.com/happilfan/Order-summary-card | 18.3.2026 | HTML/CSS | Order summary card solution based on [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) by Frontend Mentor. |
+| 👨🏻‍💻[GitHub Tutorial](https://github.com/happilfan/GitHub-Tutorial/blob/main/README.md) | https://github.com/happilfan/GitHub-Tutorial | 27.3.2026 | Other | How to connect/link your computer with GitHub, and work with files. |
 
-**HTML & CSS**
-| Project | Source | Completion Date | Description |
-|-|-|-|-|
-| [YouTube Replica](https://happilfan.github.io/YouTube-replica) | https://github.com/happilfan/YouTube-replica | 13.3.2026 | YouTube Replica Remake based on [HTML & CSS Full Course](https://youtu.be/G3e-cpL7ofc) by SuperSimpleDev. |
-| [QR code component](https://happilfan.github.io/QR-code-component) | https://github.com/happilfan/QR-code-component | 17.3.2026 | QR code component solution based on [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) by Frontend Mentor. |
-| [Order summary card](https://happilfan.github.io/Order-summary-card) | https://github.com/happilfan/Order-summary-card | 18.3.2026 | Order summary card solution based on [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) by Frontend Mentor. |
-| [Clipboard landing page](https://happilfan.github.io/clipboard-landing-page-master) | https://github.com/happilfan/clipboard-landing-page-master | 24.3.2026 | Clipboard landing page based on [Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9) by Frontend Mentor. The project was carried out in collaboration with [Amara-Rejuan](https://github.com/Amara-Rejuan). |
+### 👥 Group Projects
 
-**Other**
-| Project | Last Update | Description |
-|-|-|-|
-| [GitHub Tutorial](https://github.com/happilfan/GitHub-Tutorial) | 27.3.2026 | How to connect/link your computer with GitHub, and work with files. |
+| Project | Source | Last Update | Tags | Description |
+|-|-|-|-|-|
+| 🌍[Countries App](https://pepemikko.github.io/Countries-App/) | https://github.com/PePeMikko/Countries-App | 30.9.2026 | HTML/CSS, JS, API | Countries App based on [Challenge](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca) by Frontend Mentor. The project was carried out in collaboration with [Mikko Haponen](https://github.com/PePeMikko). |
+| ☀️[Weather App](https://pepemikko.github.io/Weather-App/) | https://github.com/PePeMikko/Weather-App | 25.9.2026 | HTML/CSS, JS, API | Weather App based on [Challenge](https://www.100jsprojects.com/project/weather-app) by 100 JS Projects. The project was carried out in collaboration with [Mikko Haponen](https://github.com/PePeMikko). |
+| 📄[Multi-step form](https://github.com/iidadi/perjantai/) | https://github.com/iidadi/perjantai | 10.8.2026 | HTML/CSS, JS | Multi-step form based on [Challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ) by Frontend Mentor. The project was carried out in collaboration led by [Iida Dadi](https://github.com/iidadi). |
+| 🌐[Clipboard landing page](https://happilfan.github.io/clipboard-landing-page-master) | https://github.com/happilfan/clipboard-landing-page-master | 24.3.2026 | HTML/CSS | Clipboard landing page based on [Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9) by Frontend Mentor. The project was carried out in collaboration with [Amara-Rejuan](https://github.com/Amara-Rejuan). |
 
 ### 🛠️ Tools
 - Languages: HTML/CSS, JavaScript
